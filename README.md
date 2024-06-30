@@ -5,7 +5,7 @@ This project involves the use of AssemblyAI's Speech-to-Text API to convert audi
 into text transcriptions. The transcribed text is then processed to extract relevant
 information about cow IDs and milk quantities, which are updated in a provided CSV file
 
-Technologies Used:
+Technologies Used:  
 AssemblyAI API: For converting audio files into text transcriptions.  
 Python: The main programming language used for scripting and data processing.  
 pandas: For data manipulation, reading, and writing CSV files.  
