@@ -13,6 +13,6 @@ numpy: For numerical operations.
 inflect: For converting numbers to words.  
 re (Regular Expressions): For pattern matching in text.  
 Custom Python Modules:  
-no_dict.py: Contains mappings for number word conversions.  
-api_communication.py: Contains functions to communicate with AssemblyAI API.  
+  no_dict.py: Contains mappings for number word conversions.  
+  api_communication.py: Contains functions to communicate with AssemblyAI API.  
 API Key Management: Secure handling of the AssemblyAI API key using a separate api_secrets module.  
